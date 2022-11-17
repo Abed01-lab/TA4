@@ -1,7 +1,9 @@
 {
   "scripts": {
     "test": "cucumber-js",
-    "coverage": "nyc npm test"
+    "coverage": "nyc npm test",
+    "mutation": "npx stryker run",
+    "Linting": "npx eslint ."
   },
   "devDependencies": {
     "@cucumber/cucumber": "8.7.0",
