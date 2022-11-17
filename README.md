@@ -32,13 +32,13 @@ You can use atLeast(x) with any number to test if the mock has been called at le
 
 **4. How do you verify that a mock was called with specific arguments?**
 
-[Code Example (VerifyThatAMockWasCalledWithSpecificArguments)](https://github.com/Worldjones2/TestAssignment4/blob/main/Mockito/src/test/java/com/example/mockito/ProcessorTest.java)
+[Code Example (VerifyThatAMockWasCalledWithSpecificArguments)](https://github.com/Abed01-lab/TA4/blob/main/Mockito/src/test/java/com/example/mockito/ProcessorTest.java)
 
 We use verify method and calls on the method to check the methods specific arguments to verify the return of the method.
 
 **5. How do you use a predicate to verify the properties of the arguments given to a call to the mock?**
 
-[Code Example (VerifyPropertyWithPredicate)](https://github.com/Worldjones2/TestAssignment4/blob/main/Mockito/src/test/java/com/example/mockito/ProcessorTest.java)
+[Code Example (VerifyPropertyWithPredicate)](https://github.com/Abed01-lab/TA4/blob/main/Mockito/src/test/java/com/example/mockito/ProcessorTest.java)
 
 We use the argThat method to initialize the predicate which verify the properties of the arguments in the mock.
 
