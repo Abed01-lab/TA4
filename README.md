@@ -8,7 +8,7 @@
 
 ## Scenarios
 
-Features folder [https://github.com/Abed01-lab/TA4/tree/main/features]
+[Feature Folder](https://github.com/Abed01-lab/TA4/tree/main/features)
 
 ## Getting started
 
