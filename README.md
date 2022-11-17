@@ -8,43 +8,7 @@
 
 ## Scenarios
 
-Game
-
-Given the game has started
-Then game must have a snake
-And game must have “1” apple
-And snake must have direction “left”
-And game must have 50 tiles
-And game must have 0 points
-
-Given the game has started
-When snake eats an apple
-Then games must have “0” apples
-
-Given the game has started
-When the snake length is 50
-Then the game is won
-
-Given the game has started
-When snake hits wall
-Then game is over
-
-Given the game has started
-When snake runs into its own body
-Then game is over
-
-Snake
-
-Given the game has started
-When a snake eats an apple
-Then snake must grow by “1”
-
-Given the game has started
-And the snakes direction is not <startDirection>
-When snake changes direction to <desiredDirection>
-Then snakes direction must change to <expectedDirection>
-
-Features:
+Features folder [https://github.com/Abed01-lab/TA4/tree/main/features]
 
 ## Getting started
 
