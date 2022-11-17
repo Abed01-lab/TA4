@@ -1,7 +1,7 @@
 ## Technologies
 
-- Typescript
-- Cucumber (BDD)
+- [Typescript] (https://www.typescriptlang.org/)
+- [Cucumber (BDD)] (https://cucumber.io/docs/installation/javascript/)
 - [Jest (Code Coverage)](https://about.codecov.io/blog/measuring-typescript-code-coverage-with-jest-and-github-actions/)
 - [Styrker Mutation (Mutation Testing)](https://stryker-mutator.io/docs/stryker-js/typescript-checker/)
 - [ESLint (Static Analysis)](https://typescript-eslint.io/docs/)
